@@ -4,6 +4,7 @@ pip install -U \
     keyring \
     twine \
     setuptools \
+    build \
     wheel > /dev/null
 pip install -U keyrings.google-artifactregistry-auth > /dev/null
 
